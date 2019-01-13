@@ -1,6 +1,6 @@
 # Python easy JSON Web Key 
 
-This project provides utilities and examples to easily create and handle JSON Web Key (JWK) objects. 
+This project provides utilities and examples to easily create and handle [JSON Web Key (JWK)](https://tools.ietf.org/html/rfc7517) objects. 
 
 ## Getting Started
 
@@ -36,4 +36,4 @@ python tests.py
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
